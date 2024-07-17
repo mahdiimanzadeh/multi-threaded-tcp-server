@@ -1,5 +1,3 @@
-Here is an example content for your `README.md` file, including descriptions of both C files (`server.c` and `client.c`) and the expected output.
-
 ### README.md
 
 ```markdown

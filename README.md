@@ -41,7 +41,6 @@ Server Output
 
 When running the server, the output will display messages from the clients, indicating the operations being performed.
 ```
-
 Server listening on port 8080
 Message from client: WRITE:Hello from Client 1
 Message from client: READ
@@ -49,7 +48,7 @@ Message from client: WRITE:This is Client 2
 Message from client: READ
 ```
 
-#Client Output
+Client Output
 
 **Client 1:**
 

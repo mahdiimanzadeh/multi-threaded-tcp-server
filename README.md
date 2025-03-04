@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Multi-threaded TCP Server
 
 This project implements a multi-threaded TCP server in C that supports concurrent file read and write operations from multiple clients. The server uses a thread pool to handle multiple client connections efficiently and synchronizes file operations to maintain data integrity.
